@@ -1,0 +1,2 @@
+# Analisis-Pola-dan-Tren-Deklarasi-Bencana-AS-Berdasarkan-Bencana-Wilayah-dan-Program-Bantuan-FEMA-
+Penelitian ini membangun Data Warehouse berbasis PostgreSQL untuk menganalisis data bencana FEMA periode 2020–2024. Proses ETL, star schema, Index, dan Materialized View diterapkan untuk meningkatkan performa OLAP. Materialized View mempercepat query hingga 1.172 kali, sementara fire dan biological mendominasi insiden terutama akibat COVID-19.
